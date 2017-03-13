@@ -35,3 +35,11 @@ nav ul li a{
 	border-radius: 20px;
 	background: blue;
 }
+.topNav{
+	position: fixed;
+	background: #000;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50px;
+}
